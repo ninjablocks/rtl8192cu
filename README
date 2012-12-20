@@ -1,2 +1,5 @@
 Realtek 0bda:8176 Wifi driver
 Beaglebone Ubuntu 12.04 kernel 3.2.18-psp14
+Driver is in driver/rtl8188C_8192C_usb_linux_v3.4.4_4749.20121105/
+
+To recompile, clone the beaglebone-kernel repo and place in same parent directory.
